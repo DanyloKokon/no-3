@@ -1,0 +1,43 @@
+.div1{
+    width: 420px;
+    height: 546px; ;
+    /* margin-left: 148px ; */
+    /* margin-right: 65px; */
+    display: inline-block;
+    margin-top: 20px;
+}
+.div2{
+    width: 420px;
+    height: 546px; ;
+     margin-left: 65px; 
+   display: inline-block;
+}
+.div3{
+    width: 420px;
+    height: 546px; 
+    display: inline-block;
+
+}
+.a1{
+margin-left: 315px;
+}
+
+.div4{
+    width: 420px;
+    height: 546px; 
+    margin-left: 65px;
+ display: inline-block;
+}
+
+.div5{
+    width: 420px;
+    height: 546px; 
+ display: inline-block;
+}
+
+.div6{
+    width: 420px;
+    height: 546px; 
+    margin-left: 65px;
+ display: inline-block;
+}
